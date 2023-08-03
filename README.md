@@ -1,12 +1,16 @@
-# Angularmemoryopti
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+# Angular Memory Optimization by Avoid Memory Leaks
 
 In the context of Angular, most often memory leaks are caused due to bad management of Observables.
 
 One of Best way to avoid memory leaks in Angular.
 
-*On Destroy in combination with takeUntil
+*On Destroy in combination with takeUntil 
+
+Refer The code below
+
+![image](https://github.com/LasindaDilshan/Angularmemoryopti/assets/32431966/25994f4a-dfc9-4990-8964-6b1d6f9be244)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
 
