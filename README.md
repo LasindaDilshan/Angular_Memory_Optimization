@@ -1,4 +1,4 @@
-# Angular Memory Optimization by Avoid Memory Leaks
+# Angular Memory Optimization by Avoid Memory Leaks And Inheritance
 
 In the context of Angular, most often memory leaks are caused due to bad management of Observables.
 
